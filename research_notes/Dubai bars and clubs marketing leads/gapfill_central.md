@@ -156,9 +156,9 @@ Seven kinds of weakness recur across the new venues:
 ## What publicly listed business phone numbers (04 landlines, 05x mobiles/WhatsApp) and emails are published for each, and where?
 
 ### Takeaway
-Across the 30 rows, **phone numbers were found for 20 and emails for 7**. Most are **hotel switchboards and hotel-wide inboxes**, not outlet-owned lines.
+Across the 30 rows, **phone numbers were found for 20 and emails for 6**. Most are **hotel switchboards and hotel-wide inboxes**, not outlet-owned lines.
 - **Outlet-specific numbers** were found for: Level 43, the voco lounges, Windows Bar, Café Belge, BLU Dubai, Stars 'N' Bars and RARE.
-- **The only outlet-specific email** in the lead table is none. Treehouse's (excluded) is the only outlet-specific email found in this pass.
+- **No row in the lead table has an outlet-specific email.** All 6 emails are hotel-level. The only outlet email found in this pass belongs to Treehouse, which is excluded.
 - **No contacts at all** were found for: Alta Badia Bar, Swim & Tonic, BAI Bar & Terrace, Bay Club, Tribal Lounge, Orange Feels, Iris, Lilly's Social House, Byzantium Lounge and Sho Cho.
 
 ### Cited Findings
@@ -203,6 +203,6 @@ Across the 30 rows, **phone numbers were found for 20 and emails for 7**. Most a
 - For hotel-run outlets, the realistic decision-maker contact is the hotel F&B or marketing office via the switchboard. Direct outlet emails are almost never published, and their absence is itself part of the weak-presence pitch.
 
 ### Gaps
-- Emails could not be found for 23 of the 30 rows. LinkedIn and company-registry contacts were not searched; they would also risk collecting personal staff data.
+- Emails could not be found for 24 of the 30 rows. LinkedIn and company-registry contacts were not searched; they would also risk collecting personal staff data.
 - No source confirms that any 05x number is a WhatsApp Business line.
 - Stars 'N' Bars' number has a formatting conflict that needs checking. Which 50th-floor voco number belongs to O Lounge versus Black Mirror is unresolved.
