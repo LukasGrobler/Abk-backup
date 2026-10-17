@@ -80,7 +80,13 @@ Al Quoz produced no licensed bar or nightclub in results; the one lead found is 
 ## What publicly listed business phone numbers (04 landlines, 05x mobiles/WhatsApp) and emails are published for each, and where?
 
 ### Takeaway
-Thirteen distinct business numbers were found. Eleven are **hotel switchboards or hotel lines**. Two are outlet-level: Charm Thai's mobile +971 54 997 8598 and Lo+Cale's restaurant line. One more mobile is a 2018 hotel general number (Stella Di Mare). Only **two emails** were found, both Wyndham-era hotel reservations addresses that may be outdated after the apparent rebrand. No venue-specific bar email (info@, reservations@ or outlet address) was found for any venue. Directory listings consistently had email fields, but the addresses were masked.
+Seventeen distinct numbers were found, not counting faxes and toll-free lines:
+- 11 hotel main or switchboard lines (two of them Wyndham's, which conflict)
+- 1 hotel sales line (InterContinental)
+- 1 hotel general mobile from 2018 (Stella Di Mare)
+- 2 outlet-level numbers (Charm Thai's mobile +971 54 997 8598 and the Lo+Cale restaurant line)
+- 1 independent venue landline (Cassette)
+- 1 club line at the excluded Dubai Marina Yacht Club Only **two emails** were found, both Wyndham-era hotel reservations addresses that may be outdated after the apparent rebrand. No venue-specific bar email (info@, reservations@ or outlet address) was found for any venue. Directory listings consistently had email fields, but the addresses were masked.
 
 ### Cited Findings
 - **Media One Hotel** (Garden on 8, Coco Lounge, Qwerty): +971 4 427 1000 (hotel main line); toll-free +800 772 7081 — [Travel Weekly Asia](https://www.travelweekly-asia.com/Hotels/Dubai/Media-One-Hotel-Dubai-p8547939); [AMI](https://www.amimagazine.global/Meeting-Event-Venues/Dubai/Convention-Hotel/Media-One-Hotel-Dubai-p58034256); same line given for Qwerty — [What's On 2023](https://whatson.ae/2023/04/beloved-hotspot-baby-q-has-now-closed-its-doors/). Email: not found.
